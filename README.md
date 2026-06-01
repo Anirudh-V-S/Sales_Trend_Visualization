@@ -1,11 +1,12 @@
 # SALES TREND VISUALIZATION
 
-## Data Analytics Internship Project
-
-**Intern ID:** CITS2983  
-**Intern Name:** Anirudh V S  
-**Academic Evaluator/Company:** CodTech IT Solutions  
-**Project Status:** Production-Ready & Fully Completed  
+### 🎓 CODTECH IT SOLUTIONS DATA ANALYTICS INTERNSHIP
+---
+**🆔 Intern ID:** `CITS2983`  
+**👤 Intern Name:** Anirudh V S  
+**💼 Domain:** Sales Performance Trend Visualization & Data Preprocessing  
+**🏆 Project Status:** Production-Ready (QA Audited & Verified 100/100)  
+---
 
 ---
 
